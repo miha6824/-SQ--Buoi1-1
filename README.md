@@ -8,9 +8,9 @@ Viết một chương trình tính tổng các số trong một mảng số nguy
 4. Kết quả kiểm thử
 ![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20092700.png)
 5. Tổng kết
-  Tất cả các trường hợp kiểm thử đã thành công.
-  Chương trình ArrayUtils.sum hoạt động chính xác trong các tình huống:
-  Mảng chứa các số dương.
-  Mảng chứa các số âm.
-  Mảng chứa các số hỗn hợp.
-  Mảng rỗng hoặc null.
+- Tất cả các trường hợp kiểm thử đã thành công.
+- Chương trình ArrayUtils.sum hoạt động chính xác trong các tình huống:
+   + Mảng chứa các số dương.
+   + Mảng chứa các số âm.
+   + Mảng chứa các số hỗn hợp.
+   + Mảng rỗng hoặc null.
