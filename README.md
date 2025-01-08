@@ -7,8 +7,6 @@ Viết một chương trình tính tổng các số trong một mảng số nguy
 ![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20120603.png)
 4. Kết quả kiểm thử
 ![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20092700.png)
-5. Độ bao phủ 
-![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-08%20081613.png)
 6. Tổng kết
 - Tất cả các trường hợp kiểm thử đã thành công.
 - Chương trình ArrayUtils.sum hoạt động chính xác trong các tình huống:
