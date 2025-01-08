@@ -1,4 +1,4 @@
-BÁO CÁO BÀI TẬP 
+# BÁO CÁO BÀI TẬP VỀ UNIT TESTING
 1. Mô tả bài toán
 Viết một chương trình tính tổng các số trong một mảng số nguyên. Nếu mảng rỗng hoặc null, kết quả trả về phải là 0. Kiểm tra tính chính xác của chương trình bằng cách sử dụng Unit Test với các trường hợp kiểm thử khác nhau.
 2. Mã nguồn chương trình
@@ -7,7 +7,9 @@ Viết một chương trình tính tổng các số trong một mảng số nguy
 ![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20120603.png)
 4. Kết quả kiểm thử
 ![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20092700.png)
-5. Tổng kết
+5. Độ bao phủ 
+![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-08%20081613.png)
+6. Tổng kết
 - Tất cả các trường hợp kiểm thử đã thành công.
 - Chương trình ArrayUtils.sum hoạt động chính xác trong các tình huống:
    + Mảng chứa các số dương.
